@@ -39,8 +39,8 @@ The next steps should be inside the click event:
 
 
 ## Wrap-up
-- [ ] Save your changes and push to GitHub
-- [ ] Submit your project link - the page's url - to the Project Submission form.
+- [x] Save your changes and push to GitHub
+- [x] Submit your project link - the page's url - to the Project Submission form.
 
 ## Project Extensions
 - [ ] Extension: Add another input for the user to put in the current year and do the math from there so the app always works
